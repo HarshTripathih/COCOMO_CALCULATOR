@@ -349,6 +349,8 @@ input[type="checkbox"] {
     margin-bottom: px;
     font-size: 20px;
     margin-left: 60px;
+    width: 60%;
+    
 }
 #btn1 {
     outline: none;
