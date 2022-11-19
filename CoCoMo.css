@@ -347,10 +347,9 @@ input[type="checkbox"] {
 }
 #intermediate input {
     margin-bottom: px;
-    font-size: 20px;
+    font-size: 17px;
     margin-left: 60px;
-    width: 60%;
-    
+    width: 50%;
 }
 #btn1 {
     outline: none;
