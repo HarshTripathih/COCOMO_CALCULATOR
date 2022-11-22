@@ -212,12 +212,13 @@ body {
 
 #type {
     width: 10%;
-    height: 500px;
-    background-color: white;
+    height: 400px;
+    background-color: antiquewhite;
     margin: 40px 10px 0 100px;
     text-align: center;
     float: left;
     transition: all 1.5s;
+    border-radius: 15px;
 }
 
 input[type="radio"] {
@@ -249,7 +250,7 @@ input[type="checkbox"] {
     font-size: 35px;
     transition: all 1.5s;
     color: 3px solid black;
-    background-color: white;
+    background-color: antiquewhite;
     margin-left: 515px;
     margin-top: 10px;
     border-radius: 5px;
@@ -260,7 +261,7 @@ input[type="checkbox"] {
 }
 
 
-@media (max-width: 414px) {
+@media (max-width: 414px ) {
 #type {
     width: 80%;
     height: 600px;
@@ -269,6 +270,7 @@ input[type="checkbox"] {
     text-align: center;
     float: left;
     transition: all 1.5s;
+    border-radius: 5px;
 }
 #main {
     width: 90%;
@@ -378,7 +380,9 @@ input[type="checkbox"] {
     margin-bottom: 50px;
 }
 body{
+    background: url(abstract-5035778.jpg) no-repeat;
     background-size: cover;
 }
+
 }
 
